@@ -2,6 +2,5 @@
     "manifest_version": 3,
     "name": "Resize iCloud Modal",
     "version": "1.0",
-    "description": "Resize iCloud Modal in Data Recovery",
-    "permissions": ["activeTab"],
+    "description": "Resize iCloud Modal in Data Recovery"
 }

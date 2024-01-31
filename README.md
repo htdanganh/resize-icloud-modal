@@ -1,8 +1,8 @@
-Chrome Extension to resize the Data Recovery modal for iCloud.\ 
+Chrome Extension to resize the Data Recovery modal for iCloud.
 
 to modify/modified:
 
-modal-child-application\
+modal-child-application
 
 cw-pane-container\
 dr-workspace-container\

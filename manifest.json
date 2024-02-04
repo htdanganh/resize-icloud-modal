@@ -10,7 +10,7 @@
         "scripting"
     ],
     "matches": [
-        "https://www.icloud.com/datarecovery/*"
+        "https://www.icloud.com/recovery/*"
     ],
     "resources": [
         "main.css"

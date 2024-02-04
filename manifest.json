@@ -9,10 +9,10 @@
         "declarativeContent",
         "scripting"
     ],
-    "matches": [
-        "https://www.icloud.com/recovery/*"
-    ],
-    "resources": [
-        "main.css"
+    "content_scripts": [
+        {
+            "matches": ["https://www.icloud.com/recovery/*"],
+            "css": ["main.css"]
+        }
     ]
 }

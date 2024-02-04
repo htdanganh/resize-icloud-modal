@@ -8,5 +8,11 @@
         "activeTab",
         "declarativeContent",
         "scripting"
+    ],
+    "matches": [
+        "https://www.icloud.com/datarecovery/*"
+    ],
+    "resources": [
+        "main.css"
     ]
 }

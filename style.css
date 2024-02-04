@@ -1,6 +1,6 @@
-modal-child-application{
-    height: 100%;
-}
-modal-child-application-modal{
+.modal-child-application[dir=ltr] .modal-child-application-modal.sprinkles iframe.child-application,[dir=ltr] .modal-child-application .modal-child-application-modal.sprinkles iframe.child-application {
+    left: auto;
+    top: auto;
+    width: 550px;
     height: 150rem;
 }
